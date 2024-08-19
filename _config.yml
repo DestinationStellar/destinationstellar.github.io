@@ -11,11 +11,11 @@ timezone: 'Asia/Shanghai'
 name: '月垂星野'
 description: "星垂平野阔，月涌大江流"
 
-short_url: 'adstellaria.github.io'
+short_url: 'achernarwang.github.io'
 google_analytics: UA-69281367-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /myblog
+baseurl: /personal-blog
 
 # Permalinks
 permalink: /:title
@@ -47,10 +47,10 @@ plugins: [jekyll-paginate]
 safe: false
 lsi: false
 username: achernarwang
-repo: myblog
+repo: personal-blog
 branch: source
-production_url:  https://adstellaria.github.io/
-source_url:  https://github.com/achernarwang/myblog
+production_url:  https://achernarwang.github.io/
+source_url:  https://github.com/achernarwang/personal-blog
 
 exclude:
   - README.md
