@@ -15,7 +15,7 @@ short_url: 'adstellaria.github.io'
 google_analytics: UA-69281367-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /
+baseurl: /myblog
 
 # Permalinks
 permalink: /:title
@@ -46,11 +46,11 @@ plugins: [jekyll-paginate]
 # or "master" otherwise
 safe: false
 lsi: false
-username: adstellaria
-repo: adstellaria.github.io
+username: achernarwang
+repo: myblog
 branch: source
 production_url:  https://adstellaria.github.io/
-source_url:  https://github.com/adstellaria/adstellaria.github.io/
+source_url:  https://github.com/achernarwang/myblog
 
 exclude:
   - README.md
